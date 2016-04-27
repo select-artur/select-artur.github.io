@@ -32,9 +32,16 @@ a.pagination-item:hover {
     margin: 3rem 0;
   }
 
-  .pagination-item {
+  .older {
     float: left;
-    width: 50%;
+  }
+
+  .newer {
+    float: right;
+  }
+
+  .pagination-item {
+    width: 25%;
     border-width: 1px;
 
     &:first-child {
