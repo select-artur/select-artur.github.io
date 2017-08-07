@@ -2,9 +2,8 @@
 permalink:           pretty
 
 # Setup
-title:               Arthur's blog
-url:                 http://select-artur.github.io
-paginate:            1
+title:               Arthur's site
+url:                 http://za-arthur.github.io
 baseurl:             ""
 
 excerpt_separator: <!--more-->
@@ -19,14 +18,10 @@ sass:
 # About/contact
 author:
   name:              Arthur
-  url:               https://github.com/select-artur
+  github:            https://github.com/za-arthur
+  twitter:           https://twitter.com/za_arthur
 
 # Custom vars
 version:             2.0.0
 github:
-  repo:              https://github.com/select-artur/select-artur.github.io
-
-# Gems
-gems:
-  - jekyll-paginate
-  - jekyll-gist
+  repo:              https://github.com/za-arthur/za-arthur.github.io
